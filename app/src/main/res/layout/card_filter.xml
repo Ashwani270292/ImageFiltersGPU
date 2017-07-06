@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginLeft="8dp">
+    <TextView
+        android:layout_width="100dp"
+        android:layout_height="120dp"
+        android:text="Fitler Type"
+        android:textColor="#000"
+        android:id="@+id/filterText"
+        android:background="#682424"
+        android:gravity="center"/>
+</LinearLayout>
